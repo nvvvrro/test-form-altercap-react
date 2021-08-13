@@ -11,7 +11,7 @@ const TableUser = ({ users, dispatch }) => {
   };
 
   return (
-    <table className="responsive-table">
+    <table className="striped">
       <thead>
         <tr>
           <th>ID</th>
